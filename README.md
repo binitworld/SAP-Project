@@ -31,7 +31,7 @@ The project focuses on exploring and analyzing data from the BSEG and BKPF table
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/binitworld/SAP-FI-DATA-101.git
+   git clone https://github.com/binitworld/SAP-Project.git
    ```
 2. Install the required dependencies manually
    
