@@ -1,7 +1,7 @@
 # SAP FI Data Analysis (with Python)
 
 ## Overview
-This repository contains the code for my capstone project in the SAP-FI-Data-101 course designed data professionals working in finance/accounting field. 
+This repository contains the code for my capstone project in the SAP course designed data professionals working in finance/accounting field. 
 The project focuses on exploring and analyzing data from the BSEG and BKPF tables in SAP FI using Python as well as some financial and statistical analysis. 
 
 
